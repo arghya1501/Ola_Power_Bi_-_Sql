@@ -122,6 +122,11 @@ The `ola.pbix` file contains the Power BI report created to visualize the insigh
 
 3. **Visualization with Power BI**:  
    - Open the `ola.pbix` file in Power BI Desktop to view and interact with the dashboard.
+## Dashboard
+
+
+https://github.com/user-attachments/assets/d1c34e5d-9b9f-4ebb-af82-7515adcde044
+
 
 ---
 
